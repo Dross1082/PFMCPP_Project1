@@ -58,85 +58,94 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       fire
+//  action 1:   the fire burns
+fire.burn();
+//  action 2:   the fire crackles
+fire.crackle();
+//  action 3:   the fire spreads
+fire.spread(); 
+//
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       tree
+//  action 1:   the tree drops its leaves
+tree.dropLeaves();
+//  action 2:   the tree makes shade
+tree.makeShade();
+//  action 3:   the tree changes colors
+tree.changeColor();
+// 
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       phone
+//  action 1:   the phone makes calls
+phone.startCall();
+//  action 2:   the phone takes pictures
+phone.takePicture();
+//  action 3:   the phone sends text messages
+phone.sendMessage();
+// 
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       tractor
+//  action 1:   the tractor mows the field
+tractor.cutGrass();
+//  action 2:   the tractor burns fuel
+tractor.burnFuel();
+//  action 3:   the tractor carries supplies
+tractor.carrySupplies();
+// 
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       student
+//  action 1:   the student studies for the test
+student.study();
+//  action 2:   the student attends class
+student.attendClass();
+//  action 3:   the student graduates
+student.graduate();
+// 
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       snow
+//  action 1:   the snow falls
+snow.fall();
+//  action 2:   the snow fall accumulates (or increases)
+snow.accumulate();
+//  action 3:   the snow melts
+snow.melt();
+//
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       hand
+//  action 1:   the hand touches.
+hand.touch();
+//  action 2:   the hand grips
+hand.grip();
+//  action 3:   the hand flexes
+hand.flex();
+//
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       car
+//  action 1:   the car speeds up
+car.accelerate();
+//  action 2:   the care slows down
+car.brake();
+//  action 3:   the car carries passengers
+car.carryPassenger();
+// 
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       bird
+//  action 1:   the bird tweets
+bird.sing();
+//  action 2:   the bird flies
+bird.fly();
+//  action 3:   the bird eats worms
+bird.eatWorm();
+// 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       athlete
+//  action 1:   the athlete exercises
+athlete.exercise();
+//  action 2:   the athlete runs
+athlete.run();
+//  action 3:   the athlete jumps
+athlete.jump(); 
 
 
 #endif
